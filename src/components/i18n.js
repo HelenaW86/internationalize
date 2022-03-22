@@ -22,7 +22,8 @@ i18n
           // here we will place our translations...
           description: {
             part1: 'Edit <1>src/App.js</1> and save to reload.',
-            part2: 'Learn React'
+            part2: 'Learn React',
+            part3: 'here we are fully testing!'
           }
       }
     },
@@ -30,7 +31,8 @@ i18n
         translation: {
           description: {
             part1: 'Ändere <1>src/App.js</1> und speichere um neu zu laden.',
-            part2: 'Lerne React'
+            part2: 'Lerne React',
+            part3: 'Hier testen wir vollständig'
           }
         }
       },
@@ -38,7 +40,8 @@ i18n
         translation: {
           description: {
             part1: 'ändra <1>src/App.js</1> och spara för att ladda om.',
-            part2: 'Lär React'
+            part2: 'Lär React',
+            part3: 'här testar vi för fullt!'
           }
         }
       }

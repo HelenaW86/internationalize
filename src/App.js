@@ -37,6 +37,9 @@ function App() {
         >
           {t('description.part2')}
         </a>
+        <p><Trans i18nKey="description.part3">
+      
+          </Trans></p>
       </header>
     </div>
   );
