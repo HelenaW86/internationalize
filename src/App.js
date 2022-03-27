@@ -1,8 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 import { useTranslation, Trans } from 'react-i18next';
-import { changeLanguage } from 'i18next';
 
 const lngs = {
   en: { nativeName: 'english' },
